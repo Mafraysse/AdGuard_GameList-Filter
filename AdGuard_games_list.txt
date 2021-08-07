@@ -4998,7 +4998,6 @@ sites.google.com/site/unblockurgames
 ||insight.director-3d.com^
 ||insociables.com^
 ||instagamez.com^
-||instagram.com^
 ||instant-winner76.online^
 ||instantjeux.org^
 ||instantunblock.com^
@@ -8198,9 +8197,6 @@ sites.google.com/site/unblockurgames
 ||pinballnirvana.com^
 ||pinbrawl.com^
 ||pinkieplay.com^
-||pinterest.com^
-||pinterest.fr^
-||pinterest.nz^
 ||piranha-fanart-portal.de^
 ||piratefight.com^
 ||piratenkriege.de^
@@ -8758,7 +8754,6 @@ sites.google.com/site/unblockurgames
 ||redballgame.net^
 ||redcap.org^
 ||redclawgames.com^
-||reddit.com^
 ||redhotpawn.com^
 ||redlynxtrials.com^
 ||rednblu.com^
