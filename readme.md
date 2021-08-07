@@ -1,6 +1,6 @@
-#AdGuard_GameList-Filter
+# AdGuard_GameList-Filter
 
-This list is very useful for blocking domains related to online video games.
+This compilation list is very useful for blocking domains related to online video games.
 It was originally designed to control access to schools.
 
 ## Thanks
