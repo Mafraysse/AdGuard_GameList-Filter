@@ -4476,7 +4476,6 @@ sites.google.com/site/unblockurgames
 ||googleminigames.com^
 ||googlepacmangame.com^
 ||googleplay.com^
-||googlevideo.com^
 ||gophergas.com^
 ||goplay.fr^
 ||goriland.com^
