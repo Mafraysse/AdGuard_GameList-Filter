@@ -9314,7 +9314,6 @@ sites.google.com/site/unblockurgames
 ||soulbound.eu^
 ||soulbubblesgame.com^
 ||soulofdreams.fr^
-||soundcloud.com^
 ||sourivore.free.fr^
 ||sourmath.com^
 ||spaccon.net^
@@ -11068,3 +11067,4 @@ sites.google.com/site/unblockurgames
 ||zynga.com^
 ||zyraffa.pl^
 ||zzstudios.com^
+||game-game.fr^
