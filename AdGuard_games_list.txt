@@ -11089,3 +11089,5 @@ sites.google.com/site/unblockurgames
 ||sparkchess.com^
 ||pacogames.com^
 ||omegle.com^
+||geforcenow.com
+||shadow.tech  |   |  
