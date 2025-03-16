@@ -1,3 +1,5 @@
+1001games.fr^
+groups.google.com/forum/#!forum/daily-web-proxies
 sites.google.com/site/agariounblocked
 sites.google.com/site/albin19832
 sites.google.com/site/arcade56games
@@ -12,7 +14,7 @@ sites.google.com/site/minimunch57games
 sites.google.com/site/minimunch57gameurls3
 sites.google.com/site/new2studyhall2/games
 sites.google.com/site/noodelcade
-sites.google.com/site/playfunblocked
+sites.google.com/site/playfunblocked^
 sites.google.com/site/punblockedgames
 sites.google.com/site/subgfyfs
 sites.google.com/site/unblockedadventures
@@ -26,6 +28,7 @@ sites.google.com/site/unblockedgames77
 sites.google.com/site/unblockedgamesaz
 sites.google.com/site/unblockedgamesbeast
 sites.google.com/site/unblockedgamesbolich
+sites.google.com/site/unblockedgamesbolich^
 sites.google.com/site/unblockedgamescoolmath
 sites.google.com/site/unblockedgamesk10
 sites.google.com/site/unblockedgamesonlinefree
@@ -769,7 +772,6 @@ sites.google.com/site/unblockurgames
 ||astuce-jeux.com^
 ||astucesjeuxloteries.com^
 ||astwinds.com^
-||asuracomic.net^
 ||atarcade.com^
 ||atarifreak.com^
 ||atelier-duotang.com^
@@ -864,14 +866,13 @@ sites.google.com/site/unblockurgames
 ||banner.managergames.de^
 ||bar2ayunie.com^
 ||barajando.com^
-||barbie.com/en-us/games^
 ||barbie.everythinggirl.com^
 ||barbok.fr^
+||basketball.io^
 ||baseattackforce.com^
 ||basketball-game.com^
 ||basketball-rpg.net^
 ||basketball.bestmgames.com^
-||basketball.io^
 ||basketsim.com^
 ||bat.org^
 ||batallitas.com^
@@ -895,7 +896,6 @@ sites.google.com/site/unblockurgames
 ||battlepillargoboom.com^
 ||battlepoint.io^
 ||battles.interstellar-war.com^
-||battleship-game.org^
 ||battleships.f-active.com^
 ||battleunivers.com^
 ||battlingpimps.com^
@@ -933,7 +933,6 @@ sites.google.com/site/unblockurgames
 ||bennychow.com^
 ||benolding.co.uk^
 ||benoldinggames.co.uk^
-||bentv.be^
 ||benz.be^
 ||bequiz.com^
 ||berzerkstudio.com^
@@ -973,6 +972,7 @@ sites.google.com/site/unblockurgames
 ||bibicollection.com^
 ||biclopsgames.com^
 ||biereland.com^
+||bigHero.io^
 ||bigame.altervista.org^
 ||bigantgames.com^
 ||bigarcade.net^
@@ -987,7 +987,6 @@ sites.google.com/site/unblockurgames
 ||bigfootgame.com^
 ||bigfuntown.com^
 ||bigheadbasketballunblocked.com^
-||bigHero.io^
 ||bigideafun.com^
 ||bigjeux.com^
 ||biglittlegames.com^
@@ -1255,8 +1254,8 @@ sites.google.com/site/unblockurgames
 ||buzzville.com^
 ||buzzy.bees^
 ||bwhmather.com^
-||bwin.com^
 ||bwin.com.ar^
+||bwin.com^
 ||by-art.com^
 ||bytespiel.de^
 ||bzombie.com^
@@ -1322,9 +1321,8 @@ sites.google.com/site/unblockurgames
 ||cartonnetwork.pt^
 ||cartooncritters.com^
 ||cartoondollemporium.com^
-||cartoonnetwork.com^
 ||cartoonnetwork.com.br^
-||cartoonnetwork.com/games^
+||cartoonnetwork.com^
 ||cartoonnetwork.fr^
 ||casenoire.com^
 ||cash-argent.com^
@@ -1642,8 +1640,9 @@ sites.google.com/site/unblockurgames
 ||crazybone.com^
 ||crazygame.fr^
 ||crazygame.nl^
-||crazygames.com^
+||crazygames.com
 ||crazygames.com.br^
+||crazygames.com^
 ||crazygames.dk^
 ||crazygames.fr^
 ||crazygames.io^
@@ -1928,7 +1927,6 @@ sites.google.com/site/unblockurgames
 ||dirt.dennis.co.uk^
 ||discordapp.com^
 ||diseasedproductions.net^
-||disney.com/games^
 ||disneybahn.com^
 ||disneyhd.tk^
 ||disneylatino.com^
@@ -1956,7 +1954,6 @@ sites.google.com/site/unblockurgames
 ||dlgamer.com^
 ||dmaland.ru^
 ||dmg8bit.appspot.com^
-||dob5.com^
 ||dobi.nu^
 ||dockgames.com^
 ||docweasel.com^
@@ -2200,7 +2197,7 @@ sites.google.com/site/unblockurgames
 ||ecarteweb.com^
 ||ecbarre2.net^
 ||ece4co.vis.ne.jp^
-||echalk.co.uk/Maths/mathsMenu.html^
+||echalk.co.uk/Maths/mathsMenu.html
 ||echecs-online.fr^
 ||echecs.com^
 ||echecs21.com^
@@ -2606,6 +2603,7 @@ sites.google.com/site/unblockurgames
 ||flash.plasticthinking.org^
 ||flash.playland.ru^
 ||flash512.com^
+||flash_games.software.programsbase.com^
 ||flashaddictivegames.net^
 ||flashagame.com^
 ||flashanywhere.net^
@@ -2709,7 +2707,6 @@ sites.google.com/site/unblockurgames
 ||flashwing.net^
 ||flashxxgames.com^
 ||flashyland.com^
-||flash_games.software.programsbase.com^
 ||flatliners.com^
 ||flattez-moi.com^
 ||fleepflash.com^
@@ -2717,15 +2714,15 @@ sites.google.com/site/unblockurgames
 ||fletchfido.co.uk^
 ||flibus.com^
 ||flight1.100megabyte.com^
-||flightsim.com^
 ||flightsim.com.br^
+||flightsim.com^
 ||flightsimulatorarg.com.ar^
 ||flightsimworld.com^
 ||fliiby.com^
 ||flipside.com^
 ||flipside.fr^
 ||flipside5.com^
-||flirtintense.com^
+||flirtintense.com
 ||flobia.com^
 ||flobzoo.com^
 ||flockgames.com^
@@ -2765,7 +2762,6 @@ sites.google.com/site/unblockurgames
 ||formula1-game.com^
 ||formulawan.fr^
 ||foro-playonline.com.ar^
-||fortnite.com^
 ||forum-pokemon.org^
 ||forum.blow-guild.com^
 ||forum.fear-mornieo.org^
@@ -3152,7 +3148,6 @@ sites.google.com/site/unblockurgames
 ||gallendor.net^
 ||gallendor.pl^
 ||gallendor.us^
-||galtro.xyz^
 ||gam3rsonline.com^
 ||gamala.xyz^
 ||gamasutra.com^
@@ -3168,7 +3163,6 @@ sites.google.com/site/unblockurgames
 ||game-focus.com^
 ||game-fr.com^
 ||game-game.com^
-||game-game.fr^
 ||game-game.sk^
 ||game-giant.ifrance.com^
 ||game-guide.fr^
@@ -3266,8 +3260,8 @@ sites.google.com/site/unblockurgames
 ||gameboomers.com^
 ||gameboss.ru^
 ||gameboss123.com^
-||gamebox.com^
 ||gamebox.com.mk^
+||gamebox.com^
 ||gameboxclassics.com^
 ||gameboy.com^
 ||gameboyonline.com^
@@ -3410,7 +3404,6 @@ sites.google.com/site/unblockurgames
 ||gamejacket.net^
 ||gamejeux.com^
 ||gamejokers.com^
-||gamejoystick.com^
 ||gamekeyz.net^
 ||gamekicker.com^
 ||gamekit.com^
@@ -3430,14 +3423,14 @@ sites.google.com/site/unblockurgames
 ||gamelists.net^
 ||gamellespleines.fr^
 ||gamelocker.fr^
-||gameloft.com^
 ||gameloft.com.ar^
+||gameloft.com^
 ||gameloft.fr^
 ||gamelog.nl^
 ||gamelola.com^
 ||gamelover.nl^
-||gamemais.com^
 ||gamemais.com.br^
+||gamemais.com^
 ||gamemakers.de^
 ||gamemarkers.de^
 ||gamemaster.fr^
@@ -4221,8 +4214,8 @@ sites.google.com/site/unblockurgames
 ||gameyard.com^
 ||gameyeeeah.com^
 ||gamez-vault.com^
-||gamez.com^
 ||gamez.com.tw^
+||gamez.com^
 ||gamez.sk^
 ||gamez100.com^
 ||gamez4ever.de^
@@ -4313,7 +4306,6 @@ sites.google.com/site/unblockurgames
 ||geekfocus.com^
 ||geeksgamers.com^
 ||geewa.com^
-||geforcenow.com^
 ||geheee.freespaces.com^
 ||gekopgames.nl^
 ||gemaga.sbcr.jp^
@@ -4564,8 +4556,7 @@ sites.google.com/site/unblockurgames
 ||groovz.com^
 ||gros-lots.fr^
 ||groupme.com^
-||groups.google.com/d/forum/daily-web-proxies^
-||groups.google.com/forum/#!forum/daily-web-proxies^
+||groups.google.com/d/forum/daily-web-proxies
 ||grrlswrrld.com^
 ||gry.hitz.pl^
 ||grydla-dzieci.pl^
@@ -4687,7 +4678,6 @@ sites.google.com/site/unblockurgames
 ||harry-games.fr^
 ||harshlands.net^
 ||harvestopia.de^
-||hasbro.com/en-us^
 ||hastelands.com^
 ||hat-trick.net^
 ||hatchyouregg.com^
@@ -4918,9 +4908,9 @@ sites.google.com/site/unblockurgames
 ||ijuegos37.com^
 ||ijuegosgratis7.com^
 ||ijy.cc^
-||ikariam.com^
 ||ikariam.com.br^
 ||ikariam.com.ve^
+||ikariam.com^
 ||ikariam.es^
 ||ikariam.fr^
 ||ikariam.gr^
@@ -5424,7 +5414,6 @@ sites.google.com/site/unblockurgames
 ||jeux-net.org^
 ||jeux-next-gen.com^
 ||jeux-online.cn^
-||jeux-online.com^
 ||jeux-optin.com^
 ||jeux-pacman.com^
 ||jeux-pour-enfants.com^
@@ -5457,7 +5446,6 @@ sites.google.com/site/unblockurgames
 ||jeux-virtuels.fr^
 ||jeux-voiture-moto.com^
 ||jeux-voiture.org^
-||jeux-web.com^
 ||jeux-web.net^
 ||jeux-wiiu.net^
 ||jeux-worms.com^
@@ -5787,10 +5775,7 @@ sites.google.com/site/unblockurgames
 ||jeuxtiga.net^
 ||jeuxtitan.com^
 ||jeuxvideo-flash.com^
-||jeuxvideo-g^
 ||jeuxvideo-gratuit.com^
-||jeuxvideo-live.com^
-||jeuxvideo-world.com^
 ||jeuxvideo.com^
 ||jeuxvideo.fluctuat.net^
 ||jeuxvideo.fr^
@@ -5867,8 +5852,8 @@ sites.google.com/site/unblockurgames
 ||jogarjogosonline.com.br^
 ||jogaronline.net^
 ||jogatina.com^
-||jogg.com^
 ||jogg.com.br^
+||jogg.com^
 ||jogojogar.com^
 ||jogolandia.com.br^
 ||jogomedia.com^
@@ -6014,9 +5999,9 @@ sites.google.com/site/unblockurgames
 ||juegos-gratis-flash.com^
 ||juegos-gratis-gratuitos.com^
 ||juegos-gratis-juegos.com^
-||juegos-gratis.com^
 ||juegos-gratis.com.ar^
 ||juegos-gratis.com.mx^
+||juegos-gratis.com^
 ||juegos-panda.com^
 ||juegos-tiros.com^
 ||juegos-ultimate-arcade.blogspot.com^
@@ -6024,10 +6009,10 @@ sites.google.com/site/unblockurgames
 ||juegos.aol.com^
 ||juegos.canalquo.com^
 ||juegos.ciudad.com.ar^
-||juegos.com^
 ||juegos.com.ar^
 ||juegos.com.es^
 ||juegos.com.py^
+||juegos.com^
 ||juegos.diariomadrid.eu^
 ||juegos.donmegabite.com^
 ||juegos.enfemenino.com^
@@ -6179,8 +6164,8 @@ sites.google.com/site/unblockurgames
 ||juegosipo.com^
 ||juegosjava.com^
 ||juegosjuegos.asia^
-||juegosjuegos.com^
 ||juegosjuegos.com.pe^
+||juegosjuegos.com^
 ||juegosjuegos.mx^
 ||juegosjuegos.tv^
 ||juegosjuegos.ws^
@@ -6277,13 +6262,13 @@ sites.google.com/site/unblockurgames
 ||jugandogratis.com^
 ||jugandojuegos.com^
 ||jugandonline.net^
-||jugandoonline.com^
 ||jugandoonline.com.ar^
+||jugandoonline.com^
 ||jugar-gratis.net^
 ||jugar-juegos-online.com^
 ||jugar-juegos.net^
-||jugar.com^
 ||jugar.com.ar^
+||jugar.com^
 ||jugar.net^
 ||jugar.ya.com^
 ||jugarchicas.com^
@@ -6300,6 +6285,7 @@ sites.google.com/site/unblockurgames
 ||jugatetodo.com^
 ||jugateya.com^
 ||juggernart.com^
+||jujo00obo2o234ungd3t8qjfcjrs3o6k-a-sites-opensocial.googleusercontent.com/gadgets/ifr#up_embed_snippet=%3C/object%3E+%3Cparam+name%3D%22quality%22+value%3D%22high%22+/%3E++%3Cparam+name%3D%22bgcolor%22+value%3D%22%23ffffff%22+/%3E++%3Cembed+src%3D%22https://b9047f2d-a-62cb3a1a-s-sites.googlegroups.com/site/meaglesgames3/games/sports-head-football-championship.swf%22++quality%3D%22high%22+bgcolor%3D%22%23ffffff%22+width%3D%22728%22+height%3D%22529%22+++name%3D%22mymoviename%22+align%3D%22%22+type%3D%22application/x-shockwave-flash%22++pluginspage%3D%22http://www.macromedia.com/go/getflashplayer%22%3E++%3C/embed%3E++%3C/object%3E&st=e%3DAIHE3cBqFG%252BLg29rGLNMEJgEp2gz5TAbfBuy3mzIUfVF3CR3RZDYbV1wMyDF2Cx3TKbBOWYhfYN3VafWz03rZXXpnY0d0ETMe2g6PHrhazgWeDBrxByD1YMUGLQZhmAUjgvnKQ%252F8atJJ%26c%3Denterprise&rpctoken=1329582261009011955
 ||jungleadventure.eggcelent.com^
 ||junglokdo.com^
 ||jungy.com^
@@ -6367,7 +6353,6 @@ sites.google.com/site/unblockurgames
 ||kekma.net^
 ||kekuko.com^
 ||keljeu.com^
-||kemono.su^
 ||kendlojrash.com^
 ||kenplay.com^
 ||kerb.co.uk^
@@ -6674,7 +6659,6 @@ sites.google.com/site/unblockurgames
 ||legion-pretorienne.bbgraph.com^
 ||legitgames.com^
 ||lego.com^
-||lego.com/en-us/games^
 ||legolasgamer.com^
 ||legrimoire.net^
 ||leikja.net^
@@ -7010,7 +6994,6 @@ sites.google.com/site/unblockurgames
 ||matica.com^
 ||matmi.com^
 ||matrixgames.com^
-||mattelgames.com^
 ||mattfacer.com^
 ||maudits-pirates.com^
 ||mausland-mobile.com^
@@ -7096,8 +7079,8 @@ sites.google.com/site/unblockurgames
 ||metagames-eu.com^
 ||metagames.com^
 ||metajuegos.com^
-||metaldamage.com^
 ||metaldamage.com.pt^
+||metaldamage.com^
 ||metaldamage.de^
 ||metaldamage.es^
 ||metaldamage.fr^
@@ -7173,8 +7156,8 @@ sites.google.com/site/unblockurgames
 ||miniclip-club.com^
 ||miniclip-games.net^
 ||miniclip-games.us^
-||miniclip.com^
 ||miniclip.com.ro^
+||miniclip.com^
 ||miniclip.lx.ro^
 ||miniclip.ro^
 ||miniclip.se^
@@ -7323,10 +7306,10 @@ sites.google.com/site/unblockurgames
 ||monzoo.net^
 ||moodgames.com^
 ||mooiegames.nl^
+||moon_blade.tripod.com^
 ||moonflip.com^
 ||moonga.com^
 ||moongate.net^
-||moon_blade.tripod.com^
 ||mope.io^
 ||moraxian.com^
 ||mordor.nazgul.com^
@@ -7603,7 +7586,6 @@ sites.google.com/site/unblockurgames
 ||nicajuegos.com^
 ||nicajuegos.net^
 ||nick.com^
-||nick.com/games^
 ||nicoland.be^
 ||nicoland.com^
 ||nicoland.fr^
@@ -7669,7 +7651,6 @@ sites.google.com/site/unblockurgames
 ||norwegianmafia.no^
 ||nos-jeux.com^
 ||nosalom.proboards28.com^
-||nosdevoirs.fr^
 ||nostale-online.fr^
 ||notdoppler.com^
 ||note2self.co.uk^
@@ -7754,7 +7735,6 @@ sites.google.com/site/unblockurgames
 ||olympiaquest.com^
 ||olympicland.net^
 ||om.elvenar.com^
-||omegle.com^
 ||omegle.onl^
 ||omgpop.com^
 ||on57.com^
@@ -8045,7 +8025,6 @@ sites.google.com/site/unblockurgames
 ||pacman2d.com^
 ||pacmangame.info^
 ||pacmanunblocked.net^
-||pacogames.com^
 ||pactole.net^
 ||pacxonunblocked.com^
 ||pacxonunblocked.rawglo.com^
@@ -8127,7 +8106,6 @@ sites.google.com/site/unblockurgames
 ||pbm.ndo.co.uk^
 ||pbmcube.com^
 ||pbskids.org^
-||pbskids.org/games^
 ||pc-game-download.net^
 ||pc-perso.fr^
 ||pc.spaceinvaders.jp^
@@ -8139,7 +8117,6 @@ sites.google.com/site/unblockurgames
 ||pcgameshardware.de^
 ||pcgameworld.com^
 ||pcgaming.ws^
-||pch.com^
 ||pcjeuxblog.fr^
 ||pczone.co.uk^
 ||peacefmonline.com/streaming/hello^
@@ -8467,8 +8444,8 @@ sites.google.com/site/unblockurgames
 ||pokertexasomaha.com^
 ||pokertodo.com^
 ||pokeyplay.com^
-||poki.com^
 ||poki.com.br^
+||poki.com^
 ||poki.de^
 ||pokw.com^
 ||poligames.com^
@@ -8635,8 +8612,8 @@ sites.google.com/site/unblockurgames
 ||puzzlenest.com^
 ||puzzlepirates.com^
 ||puzzles-fr.com^
-||puzzles.com^
 ||puzzles.com.br^
+||puzzles.com^
 ||puzzletfactory.com^
 ||puzzletime.free.fr^
 ||pw-games.com^
@@ -8748,7 +8725,7 @@ sites.google.com/site/unblockurgames
 ||rayman-fanpage.de^
 ||razerzone.com^
 ||razoric.com^
-||rbxcdn.com^
+||rbxcdn.com
 ||rcade.com^
 ||rcade.net^
 ||rci-jeux.com^
@@ -8894,8 +8871,8 @@ sites.google.com/site/unblockurgames
 ||roquebergue.free.fr^
 ||rorgames.com^
 ||rotogame.appspot.com^
-||roundgames.com^
 ||roundgames.com.s3.amazonaws.com^
+||roundgames.com^
 ||roundgames.de^
 ||rovio.com^
 ||roxygames.com^
@@ -9034,7 +9011,7 @@ sites.google.com/site/unblockurgames
 ||scorpnabier.blogspot.com^
 ||scory.com^
 ||scrabble.malcolmboyd.net^
-||scratch.mit.edu/projects/3298856^
+||scratch.mit.edu/projects/3298856
 ||scrawlfx.com^
 ||sd1027.sivit.org^
 ||se-network.de^
@@ -9098,7 +9075,6 @@ sites.google.com/site/unblockurgames
 ||sgames.org^
 ||sgsgames.com^
 ||sgwg.net^
-||shadow.tech^
 ||shadow.wizards.com^
 ||shadowops.net^
 ||shadows.wolfpaw.net^
@@ -9119,8 +9095,8 @@ sites.google.com/site/unblockurgames
 ||shegame.com^
 ||shellshock.io^
 ||shellshockers.io^
-||shender4.com^
 ||shender4.com/games^
+||shender4.com^
 ||sherestyra.de^
 ||shermix.com^
 ||shimiegames.com^
@@ -9215,7 +9191,6 @@ sites.google.com/site/unblockurgames
 ||skylords.com^
 ||skynet.winwise.fr^
 ||skyrama.fr^
-||skyrock.com^
 ||skyvador.com^
 ||skyworkstech.com^
 ||slackdaddy.org^
@@ -9275,13 +9250,11 @@ sites.google.com/site/unblockurgames
 ||snelspelen.nl^
 ||snesbox.com^
 ||snesorama.us^
-||sng.link^
 ||sniperaim.com^
 ||snix.io^
 ||snokido.com^
 ||snokido.fr^
 ||snoozleberg.com^
-||snowball-io.io^
 ||snowball.io^
 ||so-games.com^
 ||soahcity.com^
@@ -9315,8 +9288,8 @@ sites.google.com/site/unblockurgames
 ||solitairegames.com^
 ||solitaireparadise.com^
 ||sologiochigratis.com^
-||solojuegos.com^
 ||solojuegos.com.mx^
+||solojuegos.com^
 ||solojuegos.net^
 ||solojuegosxp.com^
 ||solomario.com^
@@ -9361,7 +9334,6 @@ sites.google.com/site/unblockurgames
 ||spacetarget.com^
 ||spacewarz.cjb.net^
 ||sparh.org^
-||sparkchess.com^
 ||spartan.msgamestudios.com^
 ||speakcode.com^
 ||special-filles.com^
@@ -9434,8 +9406,8 @@ sites.google.com/site/unblockurgames
 ||spielen.com^
 ||spielen.de^
 ||spielepsychatrie.de^
-||spieletipps.de^
 ||spieletipps.de.intellitxt.com^
+||spieletipps.de^
 ||spielex.net^
 ||spielkarussell.de^
 ||spielnet.de^
@@ -9578,7 +9550,6 @@ sites.google.com/site/unblockurgames
 ||stopdisastersgame.org^
 ||stopots.com^
 ||store.steampowerd.com^
-||store.steampowered.com^
 ||stormthehouse.net^
 ||straatleven.net^
 ||strategicdomination.com^
@@ -9714,8 +9685,8 @@ sites.google.com/site/unblockurgames
 ||tagoria.net^
 ||tagpro.gg^
 ||taigames.com^
-||taikodom.com^
 ||taikodom.com.br^
+||taikodom.com^
 ||take2games.com^
 ||takegame.com^
 ||takepoint.io^
@@ -9753,7 +9724,6 @@ sites.google.com/site/unblockurgames
 ||taupinsdabord.tk^
 ||tawfiq-aliyah.co.uk^
 ||tazgames.com^
-||tcgplayer.com^
 ||tchatche.be^
 ||tcsflashgame.com^
 ||tdgames.org^
@@ -10113,10 +10083,10 @@ sites.google.com/site/unblockurgames
 ||transformersgame.com^
 ||transience.com.au^
 ||travian.cl^
-||travian.com^
 ||travian.com.ar^
 ||travian.com.br^
 ||travian.com.mx^
+||travian.com^
 ||travian.de^
 ||travian.fr^
 ||travian.net^
@@ -10154,7 +10124,6 @@ sites.google.com/site/unblockurgames
 ||tripleplaygames.com^
 ||trisover.free.fr^
 ||tristateenterprises.com^
-||triviatoday.com^
 ||triwar.de^
 ||tro-online.com^
 ||trochoivui.com^
@@ -10441,7 +10410,6 @@ sites.google.com/site/unblockurgames
 ||vevogames.com^
 ||vex2unblocked.com^
 ||vexunblocked.net^
-||vfstreaming1.watch^
 ||vgamenetwork.com^
 ||vgchartz.com^
 ||vgf.ca^
@@ -10466,8 +10434,8 @@ sites.google.com/site/unblockurgames
 ||videogiochigratis.net^
 ||videojuegoblog.com^
 ||videojuegos.adnstream.tv^
-||videojuegos.com^
 ||videojuegos.com.ve^
+||videojuegos.com^
 ||videojuegos.hey.es^
 ||videojuegos.idoneos.com^
 ||videojuegos.mundodescargas.com^
@@ -10831,7 +10799,7 @@ sites.google.com/site/unblockurgames
 ||xbox-gamer.net^
 ||xbox-scene.com^
 ||xbox.com^
-||xbox.ipv6.microsoft.com^
+||xbox.ipv6.microsoft.com
 ||xbox360achievements.org^
 ||xbox360rip.com^
 ||xboxfrance.com^
@@ -11049,7 +11017,7 @@ sites.google.com/site/unblockurgames
 ||zombiegamer.co.za^
 ||zombiegames.us^
 ||zombiemud.org^
-||zombiesgamesfree.com/^
+||zombiesgamesfree.com/
 ||zombsroyale.io^
 ||zona-casinos.es^
 ||zona-d-juegos.ideal.es^
@@ -11062,7 +11030,6 @@ sites.google.com/site/unblockurgames
 ||zonawii.info^
 ||zone-detente.com^
 ||zone-flash.com^
-||zone-telechargement.al^
 ||zone.msn.com^
 ||zonefille.com^
 ||zonejeuxpc.com^
@@ -11100,3 +11067,28 @@ sites.google.com/site/unblockurgames
 ||zynga.com^
 ||zyraffa.pl^
 ||zzstudios.com^
+||game-game.fr^
+||vinted.fr^
+||playjolt.com^
+||golddigger.frvr.com^
+||frvr.com^
+||iogames-io.io^
+||gamemonetize.com^
+||gawd.io^
+||evowars.io^
+||splix.io^
+||flirtintense.com^
+||battleship-game.org^
+||gamejoystick.com^
+||bentv.be^
+||snowball-io.io^
+||galtro.xyz^
+||vfstreaming1.watch^
+||zone-telechargement.al^
+||dob5.com^
+||sparkchess.com^
+||pacogames.com^
+||omegle.com^
+||geforcenow.com^
+||shadow.tech^
+||nosdevoirs.fr^
