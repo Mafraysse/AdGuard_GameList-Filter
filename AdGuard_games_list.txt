@@ -610,6 +610,7 @@ sites.google.com/site/unblockedgamesvevo
 ||arcadeandaction.com^
 ||arcadeangel.com^
 ||arcadearena.com^
+||arcadrome.com^
 ||arcadebannerexchange.net^
 ||arcadebannerexchange.org^
 ||arcadebanners.com^
@@ -8280,6 +8281,7 @@ sites.google.com/site/unblockedgamesvevo
 ||plastico.tv^
 ||platico.com^
 ||platinumgames-blog.cocolog-nifty.com^
+||platoapp.com^
 ||play-asia.com^
 ||play-free-games.com^
 ||play-free-online-game.co.uk^
@@ -8430,6 +8432,7 @@ sites.google.com/site/unblockedgamesvevo
 ||playtonium.com^
 ||playtoongames.com^
 ||playtopia.fr^
+||playtropolis.com^
 ||playtosor.net^
 ||playvalorant.com^
 ||playviking.com^
