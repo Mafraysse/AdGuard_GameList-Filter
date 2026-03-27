@@ -610,6 +610,7 @@ sites.google.com/site/unblockedgamesvevo
 ||arcadeandaction.com^
 ||arcadeangel.com^
 ||arcadearena.com^
+||arcadrome.com^
 ||arcadebannerexchange.net^
 ||arcadebannerexchange.org^
 ||arcadebanners.com^
@@ -847,7 +848,6 @@ sites.google.com/site/unblockedgamesvevo
 ||badazzfemales.wordpress.com^
 ||bagofgames.com^
 ||bahagon.com^
-||baidu.com^
 ||baits.io^
 ||baixakijogos.ig.com.br^
 ||bajarjuegos.org^
@@ -1101,6 +1101,7 @@ sites.google.com/site/unblockedgamesvevo
 ||bloonsworld.com^
 ||bloontowerdefense5.info^
 ||bloontowerdefense5unblocked.com^
+||bloxd.io^
 ||bloxorzgame.com^
 ||bloxorzunblocked.com^
 ||blueblockgames.com^
@@ -1383,6 +1384,7 @@ sites.google.com/site/unblockedgamesvevo
 ||cerolag.com^
 ||ceskehry.cz^
 ||cevizoyun.com^
+||cg.163.com^
 ||cgratuix.com02.com^
 ||chainsawmaniac.com^
 ||chamoland.com^
@@ -4722,6 +4724,7 @@ sites.google.com/site/unblockedgamesvevo
 ||heavygames.com^
 ||hedonistica.com^
 ||hegemony.skotos.net^
+||heheda.cn^
 ||helbreathnemesis.com^
 ||heldenwelt.com^
 ||helicopter-games.org^
@@ -7286,6 +7289,7 @@ sites.google.com/site/unblockedgamesvevo
 ||modernwar.nl^
 ||modulorargentina.com.ar^
 ||mofunzone.com^
+||moe.ms^
 ||mogamers.net^
 ||mogelpower.de^
 ||mohsye.com^
@@ -8269,12 +8273,14 @@ sites.google.com/site/unblockedgamesvevo
 ||planetthirteen.com^
 ||planetwidegames.com^
 ||planetzoog.com^
+||plantsvszombiesfusion.com^
 ||plarium.com^
 ||plastelina.net^
 ||plasticmartians.co.uk^
 ||plastico.tv^
 ||platico.com^
 ||platinumgames-blog.cocolog-nifty.com^
+||platoapp.com^
 ||play-asia.com^
 ||play-free-games.com^
 ||play-free-online-game.co.uk^
@@ -8425,6 +8431,7 @@ sites.google.com/site/unblockedgamesvevo
 ||playtonium.com^
 ||playtoongames.com^
 ||playtopia.fr^
+||playtropolis.com^
 ||playtosor.net^
 ||playvalorant.com^
 ||playviking.com^
@@ -10610,6 +10617,7 @@ sites.google.com/site/unblockurgames^
 ||wakanim.tv^
 ||wakfu.com^
 ||wam-poker.com^
+||wan1234.com^
 ||wanderers.io^
 ||war-animo.com^
 ||war-brokers.io^
