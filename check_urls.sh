@@ -1,8 +1,10 @@
 #!/bin/bash
 
+cd "$(dirname "$0")"
+
 # Fichiers
-input_file="Listing_raw.txt"
-adguard_file="AdGuard_games_list.txt"
+input_file="Domain_list_raw.txt"
+adguard_file="AdGuard_games_streaming_social_list.txt"
 
 # Vérification des URL
 while IFS= read -r url; do
