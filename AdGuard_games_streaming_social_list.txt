@@ -1818,7 +1818,6 @@ sites.google.com/site/unblockedgamesvevo
 ||girlsgogames.com^
 ||girlsgogames.fr^
 ||girlsjeux.com^
-||github.io^
 ||giydiroyun.com^
 ||gjeux.com^
 ||gladiatus.com^
