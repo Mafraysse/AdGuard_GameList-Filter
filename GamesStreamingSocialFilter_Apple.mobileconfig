@@ -11,7 +11,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>B549F4B5-B945-4D8D-9896-6CA35C0EC09A</string>
+	<string>DF7AC95C-BD11-406A-B9C5-CF0F532C3D7C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadContent</key>
@@ -22,13 +22,13 @@
 			<key>PayloadIdentifier</key>
 			<string>com.gamestreamingsocial.webcontentfilter.filter</string>
 			<key>PayloadUUID</key>
-			<string>5C06EB49-4F68-4F68-9A78-A982EABCE431</string>
+			<string>151C9391-FB8B-46EC-BB0E-1509BFF15B75</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadDisplayName</key>
 			<string>Games, Streaming &amp; Social Web Filter</string>
 			<key>ContentFilterUUID</key>
-			<string>73AFC9B1-1BCB-4464-9BE8-00D0EB4D5B08</string>
+			<string>C22BF5B5-07C3-48FE-A7A1-58C9227DCBB7</string>
 			<key>FilterType</key>
 			<string>BuiltIn</string>
 			<key>AutoFilterEnabled</key>
@@ -663,8 +663,6 @@
 				<string>http://babygames.com</string>
 				<string>https://badazzfemales.wordpress.com</string>
 				<string>http://badazzfemales.wordpress.com</string>
-				<string>https://baidu.com</string>
-				<string>http://baidu.com</string>
 				<string>https://baits.io</string>
 				<string>http://baits.io</string>
 				<string>https://bakno.com</string>
@@ -3637,8 +3635,6 @@
 				<string>http://girlsgogames.fr</string>
 				<string>https://girlsjeux.com</string>
 				<string>http://girlsjeux.com</string>
-				<string>https://github.io</string>
-				<string>http://github.io</string>
 				<string>https://giydiroyun.com</string>
 				<string>http://giydiroyun.com</string>
 				<string>https://gladiatus.com</string>
@@ -9347,6 +9343,18 @@
 				<string>http://gamekult.com</string>
 				<string>https://antstream.com</string>
 				<string>http://antstream.com</string>
+				<string>https://arcadrome.com</string>
+				<string>http://arcadrome.com</string>
+				<string>https://cg.163.com</string>
+				<string>http://cg.163.com</string>
+				<string>https://heheda.cn</string>
+				<string>http://heheda.cn</string>
+				<string>https://moe.ms</string>
+				<string>http://moe.ms</string>
+				<string>https://plantsvszombiesfusion.com</string>
+				<string>http://plantsvszombiesfusion.com</string>
+				<string>https://wan1234.com</string>
+				<string>http://wan1234.com</string>
 			</array>
 		</dict>
 	</array>

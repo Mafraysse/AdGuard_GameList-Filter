@@ -312,7 +312,6 @@ azeroth.fr
 b3ta.com
 babygames.com
 badazzfemales.wordpress.com
-baidu.com
 baits.io
 bakno.com
 baknogames.com
@@ -1799,7 +1798,6 @@ girlsgogames.co.uk
 girlsgogames.com
 girlsgogames.fr
 girlsjeux.com
-github.io
 giydiroyun.com
 gladiatus.com
 gladiatus.fr
@@ -4654,3 +4652,9 @@ poxel.io
 gulper.io
 gamekult.com
 antstream.com
+arcadrome.com
+cg.163.com
+heheda.cn
+moe.ms
+plantsvszombiesfusion.com
+wan1234.com

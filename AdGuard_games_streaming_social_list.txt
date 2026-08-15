@@ -339,7 +339,6 @@ sites.google.com/site/unblockedgamesvevo
 ||b3ta.com^
 ||babygames.com^
 ||badazzfemales.wordpress.com^
-||baidu.com^
 ||baits.io^
 ||bakno.com^
 ||baknogames.com^
@@ -1819,7 +1818,6 @@ sites.google.com/site/unblockedgamesvevo
 ||girlsgogames.com^
 ||girlsgogames.fr^
 ||girlsjeux.com^
-||github.io^
 ||giydiroyun.com^
 ||gjeux.com^
 ||gladiatus.com^
@@ -4690,3 +4688,9 @@ sites.google.com/site/unblockurgames^
 ||gulper.io^
 ||gamekult.com^
 ||antstream.com^
+||arcadrome.com^
+||cg.163.com^
+||heheda.cn^
+||moe.ms^
+||plantsvszombiesfusion.com^
+||wan1234.com^
