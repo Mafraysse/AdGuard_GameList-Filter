@@ -1,38 +1,9 @@
-groups.google.com/forum/#!forum/daily-web-proxies
-sites.google.com/site/agariounblocked
-sites.google.com/site/albin19832
-sites.google.com/site/arcade56games
-sites.google.com/site/chromebookhack
-sites.google.com/site/eaglepassunblockedgames
-sites.google.com/site/fullunblockedmovies24
-sites.google.com/site/kriigames
-sites.google.com/site/laptoparcade
-sites.google.com/site/megaunblockedgames
-sites.google.com/site/millseagles
-sites.google.com/site/minimunch57games
-sites.google.com/site/minimunch57gameurls3
-sites.google.com/site/new2studyhall2/games
-sites.google.com/site/noodelcade
-sites.google.com/site/playfunblocked
-sites.google.com/site/punblockedgames
-sites.google.com/site/subgfyfs
-sites.google.com/site/unblockedadventures
-sites.google.com/site/unblockedgames1738
-sites.google.com/site/unblockedgames24h
-sites.google.com/site/unblockedgames2x
-sites.google.com/site/unblockedgames333
-sites.google.com/site/unblockedgames4me
-sites.google.com/site/unblockedgames66
-sites.google.com/site/unblockedgames77
-sites.google.com/site/unblockedgamesaz
-sites.google.com/site/unblockedgamesbeast
-sites.google.com/site/unblockedgamesbolich
-sites.google.com/site/unblockedgamesbolich
-sites.google.com/site/unblockedgamescoolmath
-sites.google.com/site/unblockedgamesk10
-sites.google.com/site/unblockedgamesonlinefree
-sites.google.com/site/unblockedgamesportal
-sites.google.com/site/unblockedgamesvevo
+[Adblock Plus]
+! Title: AdGuard GameList Filter (Mafraysse)
+! Description: Blocklist comunitaria para juegos online, web, streaming y redes sociales.
+! Version: 2026.06.19
+! Homepage: https://github.com/Mafraysse/AdGuard_GameList-Filter
+
 ||juegosonline.cl^
 ||cokitos.com^
 ||beinternetawesome.withgoogle.com^
@@ -4690,3 +4661,18 @@ sites.google.com/site/unblockurgames^
 ||gulper.io^
 ||gamekult.com^
 ||antstream.com^
+||minijuegos.com^
+||isladejuegos.com^
+||juegosinfantilespum.com^
+||paisdelosjuegos.es^
+||1001games.com^
+||1001games.es^
+||todosjuegosgratis.es^
+||fr9.es^
+||now.gg^
+||newgrounds.com^
+||silvergames.com^
+||itch.io^
+||gamesnacks.com^
+||juegos.elpais.com^
+||juegos.as.com^

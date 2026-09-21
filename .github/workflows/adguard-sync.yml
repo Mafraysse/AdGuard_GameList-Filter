@@ -1,0 +1,55 @@
+name: Sincronizar Upstream y Aplicar Etiquetas AdGuard
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 04:00 AM (UTC)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Permite ejecutar el script a mano desde la pestaña "Actions"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-tag:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Descarga todo el historial y ramas necesarias
+
+      - name: Configurar el bot de Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sincronizar, procesar y subir
+        run: |
+          # 1. Configurar el repositorio original de Mafraysse (upstream)
+          git remote add upstream https://github.com/Mafraysse/AdGuard_GameList-Filter.git
+          git fetch upstream
+
+          # 2. Actualizar tu rama 'main' pública con los cambios originales
+          git checkout main
+          git merge upstream/main -m "bot: fusionar actualizaciones de upstream" || echo "No hay cambios nuevos en upstream"
+          git push origin main
+
+          # 3. Preparar tu rama privada 'device-printer' basándose en el main actualizado
+          git checkout device-printer || git checkout -b device-printer 
+          git reset --hard main
+
+          # 4. Inyectar las etiquetas de AdGuard Home
+          sed -i 's/\^/\^\$ctag=device_printer/g' AdGuard_games_streaming_social_list.txt
+
+          # 5. Guardar los cambios y forzar la subida a tu rama personalizada
+          git add AdGuard_games_streaming_social_list.txt
+          
+          # Comprobar si hay diferencias antes de hacer un commit vacío
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "bot: sync de upstream y aplicación de etiquetas ctag=device_printer"
+            git push origin device-printer --force
+            echo "✅ Lista actualizada y etiquetas inyectadas con éxito."
+          else
+            echo "ℹ️ No se detectaron cambios respecto a la última ejecución."
+          fi
